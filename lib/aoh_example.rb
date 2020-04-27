@@ -25,8 +25,8 @@ def literal_aoh
   film_fest = [
   {:name=>"DON_G", occupation:=>"Live-in Staff"},
   {:name=>"JOELLE_VD", occupation:=>"Radio Personality"},
-  {:name=>"PAT_M", occupation:=>"Staff"}
-  {:name=>"KATE_G", occupation:=>"None"}
+  {:name=>"PAT_M", occupation:=>"Staff"},
+  {:name=>"KATE_G", occupation:=>"None"},
   {:name=>"BRUCE_G", occupation:=>"Fan of Mildred"}
 
 
