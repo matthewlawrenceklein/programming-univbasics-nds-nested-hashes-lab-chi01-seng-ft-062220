@@ -18,7 +18,7 @@ list_of_guys = [
   BRUCE_G
 ]
 
-  
+
 end
 
 def literal_aoh
