@@ -17,13 +17,19 @@ list_of_guys = [
   KATE_G,
   BRUCE_G
 ]
-
-
 end
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
+  film_fest = [
+  {:name=>"DON_G", occupation:=>"The Hitch-Hiker"},
+  {:name=>"JOELLE_VD", occupation:=>"Citizen Kane"},
+  {:name=>"PAT_M", occupation:=>"Solaris"}
+  {:name=>"KATE_G", occupation:=>"Solaris"}
+  {:name=>"BRUCE_G", occupation:=>"Solaris"}
+
+
 end
 
 def aoh_lookup(aoh, row, key)
