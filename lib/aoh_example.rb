@@ -28,7 +28,7 @@ def literal_aoh
   {:name=>"PAT_M", :occupation=>"Staff"},
   {:name=>"KATE_G", :occupation=>"None"},
   {:name=>"BRUCE_G", :occupation=>"Fan of Mildred"}
-
+]
 
 end
 
